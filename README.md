@@ -8,22 +8,22 @@
 
 
 
-* **YOLOv3: **
+* **YOLOv3:**
 
-* **SSD: **
+* **SSD:**
 
-* **FasterRCNN: **
+* **FasterRCNN:**
 
-* **ATSS: **
+* **ATSS:**
 
-* **ECO: **
+* **ECO:**
 
-* **SiamFC: ** 
+* **SiamFC:** 
 
-* **SiamPRN++: **  
+* **SiamPRN++:**  
 
-* **DIMP: **
+* **DIMP:**
 
-* **SPLT: **
+* **SPLT:**
 
-* **LTMU: **
+* **LTMU:**
