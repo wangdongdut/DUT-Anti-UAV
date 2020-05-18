@@ -7,7 +7,7 @@
   * Download[Baidu]：[train]()[], [val]()[], [test]()[]
 
 * **Baseline Results:**
-  * Metric:
+  * Metric: **P-R Curve**, **F-Score**
 
 # Tracking
 * **Dataset:**
@@ -15,7 +15,7 @@
   * Download[GoogleDrive]：[img](), [gt]()
   * Download[Baidu]：[img]()[], [gt]()[]
 * **Baseline Results:**
-  * Metric:
+  * Metric: **Success**, **Precision**
   
 # References
 
