@@ -8,7 +8,7 @@
 
 # References
 
-* **YOLOv3:**
+* **YOLO:**
 
 * **SSD:**
 
