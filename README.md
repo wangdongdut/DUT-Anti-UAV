@@ -33,7 +33,7 @@
 
 * **SiamPRN++:**  
 
-* **DIMP:**
+* **ATOM:**
 
 * **SPLT: Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang.** <br /> 
   **"Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking." ICCV (2019).**
