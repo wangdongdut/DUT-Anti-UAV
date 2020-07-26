@@ -59,7 +59,10 @@
 * Eren Unlu, Emmanuel Zenou, Nicolas Riviere, Paul-Edouard Dupouy. <br />
   `"Real-Time Drone Detection and Tracking With Visible, Thermal and Acoustic Sensors."` IPSJ Transactions on Computer Vision and Applications (2019). 
   [[paper](https://link.springer.com/article/10.1186/s41074-019-0059-x)]  
-
+  
+* Ye Wang, Yueru Chen, Jongmoo Choi, C.-C. Jay Kuo. <br />
+  `"Towards Visible and Thermal Drone Monitoring with Convolutional Neural Networks."` APSIPA Transactions on Signal and Information Processing (2019)
+  [[paper](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/towards-visible-and-thermal-drone-monitoring-with-convolutional-neural-networks/B2C49AEA077EE25F895FE84F84F16178)]  
 
 # Other Datasets & Resources
 
