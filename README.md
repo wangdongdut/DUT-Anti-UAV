@@ -51,6 +51,11 @@
   `"Real-Time Drone Detection and Tracking With Visible, Thermal and Acoustic Sensors."` ArXiv (2020). 
   [[paper](https://arxiv.org/abs/2007.07396)]     
   
+* Stamatios Samaras, Diamantidou Eleni, Dimitrios Ataloglou, Nikos Sakellariou, Anastasios Vafeiadis, Vasilis Magoulianitis, 
+  Antonios Lalas, Anastasios Dimou, Dimitrios Zarpalas, Konstantinos Votis, Petros Daras, Dimitrios Tzovaras. <br />
+  `"Deep Learning on Multi Sensor Data for Counter UAV Applications - A Systematic Review."`  Sensors (2019). 
+  [[paper](https://www.mdpi.com/1424-8220/19/22/4837)]   
+  
 * Eren Unlu, Emmanuel Zenou, Nicolas Riviere, Paul-Edouard Dupouy. <br />
   `"Real-Time Drone Detection and Tracking With Visible, Thermal and Acoustic Sensors."` IPSJ Transactions on Computer Vision and Applications (2019). 
   [[paper](https://link.springer.com/article/10.1186/s41074-019-0059-x)]  
