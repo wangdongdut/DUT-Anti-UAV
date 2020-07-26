@@ -47,6 +47,14 @@
 
 # Related Papers
 
+* Fredrik Svanstrom, Cristofer Englund, Fernando Alonso-Fernandez. <br />
+  `"Real-Time Drone Detection and Tracking With Visible, Thermal and Acoustic Sensors."` ArXiv (2020). 
+  [[paper](https://arxiv.org/abs/2007.07396)]     
+  
+* Eren Unlu, Emmanuel Zenou, Nicolas Riviere, Paul-Edouard Dupouy. <br />
+  `"Real-Time Drone Detection and Tracking With Visible, Thermal and Acoustic Sensors."` IPSJ Transactions on Computer Vision and Applications (2019). 
+  [[paper](https://link.springer.com/article/10.1186/s41074-019-0059-x)]  
+
 
 # Other Datasets & Resources
 
