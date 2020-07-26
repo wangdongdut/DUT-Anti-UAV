@@ -25,6 +25,10 @@
 
 * **FasterRCNN:**
 
+* **RetinaNet:**
+
+* **FCOS:**
+
 * **ATSS:**
 
 * **ECO:**
