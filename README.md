@@ -50,6 +50,8 @@
 
 # Other Datasets & Resources
 
+* **[Halmstad Drone Dataset](https://github.com/DroneDetectionThesis/Drone-detection-dataset):** https://github.com/DroneDetectionThesis/Drone-detection-dataset
+
 * **[USC Drone Dataset](https://github.com/chelicynly/A-Deep-Learning-Approach-to-Drone-Monitoring):** https://github.com/chelicynly/A-Deep-Learning-Approach-to-Drone-Monitoring
 
 * **[1st Anti-UAV Challenge[CVPR2020]](https://anti-uav.github.io/):** https://anti-uav.github.io/
