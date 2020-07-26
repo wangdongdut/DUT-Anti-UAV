@@ -45,6 +45,8 @@
   [[paper](https://arxiv.org/abs/2004.00305)]
   [[code](https://github.com/Daikenan/LTMU)]
   
-# Other Resources
+# Other Datasets & Resources
+
+* **[USC Drone Dataset](https://github.com/chelicynly/A-Deep-Learning-Approach-to-Drone-Monitoring):** https://github.com/chelicynly/A-Deep-Learning-Approach-to-Drone-Monitoring
 
 * **[1st Anti-UAV Challenge[CVPR2020]](https://anti-uav.github.io/):** https://anti-uav.github.io/
