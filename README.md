@@ -31,18 +31,26 @@
 
 * **ATSS:**
 
-* **ECO:**
-
-* **SiamFC:** 
-
-* **SiamPRN++:**  
-
+* **ECO: Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg** <br /> 
+  **"ECO: Efficient Convolution Operators for Tracking." CVPR (2017).**
+  [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Danelljan_ECO_Efficient_Convolution_CVPR_2017_paper.pdf)]
+  [[code](https://github.com/visionml/pytracking)]
+* **SiamFC: Luca Bertinetto, Jack Valmadre, Joao F. Henriques, Andrea Vedaldi, Philip H. S. Torr.** <br /> 
+  **"Fully-Convolutional Siamese Networks for Object Tracking." ECCV (2016).**
+  [[paper](https://arxiv.org/pdf/1606.09549.pdf)]
+  [[code](https://github.com/HonglinChu/SiamTrackers)]
+* **SiamPRN++: Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan.** <br /> 
+  **"SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR (2019).**
+  [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)]
+  [[code](https://github.com/STVIR/pysot)]
 * **ATOM: Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg.** <br /> 
   **"ATOM: Accurate Tracking by Overlap Maximization." CVPR (2019).**
   [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Danelljan_ATOM_Accurate_Tracking_by_Overlap_Maximization_CVPR_2019_paper.pdf)]
   [[code](https://github.com/visionml/pytracking)]
-* **DIMP:**
-
+* **DIMP: Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.** <br />
+  **"Learning Discriminative Model Prediction for Tracking." ICCV (2019).** 
+  [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)]
+  [[code](https://github.com/visionml/pytracking)]
 * **SPLT: Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang.** <br /> 
   **"Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking." ICCV (2019).**
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)]
