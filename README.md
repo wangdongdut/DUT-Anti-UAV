@@ -31,7 +31,7 @@
 
 * **ATSS:**
 
-* **ECO: Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg** <br /> 
+* **ECO: Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg.** <br /> 
   **"ECO: Efficient Convolution Operators for Tracking." CVPR (2017).**
   [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Danelljan_ECO_Efficient_Convolution_CVPR_2017_paper.pdf)]
   [[code](https://github.com/visionml/pytracking)]
