@@ -37,8 +37,10 @@
 
 * **SiamPRN++:**  
 
-* **ATOM:**
-
+* **ATOM: Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg.** <br /> 
+  **"ATOM: Accurate Tracking by Overlap Maximization." CVPR (2019).**
+  [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Danelljan_ATOM_Accurate_Tracking_by_Overlap_Maximization_CVPR_2019_paper.pdf)]
+  [[code](https://github.com/visionml/pytracking)]
 * **DIMP:**
 
 * **SPLT: Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang.** <br /> 
