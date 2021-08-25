@@ -87,7 +87,4 @@
 
 * **[USC Drone Dataset](https://github.com/chelicynly/A-Deep-Learning-Approach-to-Drone-Monitoring):** https://github.com/chelicynly/A-Deep-Learning-Approach-to-Drone-Monitoring
 
-* **[1st Anti-UAV Challenge[CVPR2020]](https://anti-uav.github.io/):** <br /> 
-  https://anti-uav.github.io/            <br />
-  https://github.com/ZhaoJ9014/Anti-UAV  <br />
-  https://github.com/Anti-UAV/baseline   <br />
+* **[Multi-Modal Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV):** https://github.com/ZhaoJ9014/Anti-UAV
