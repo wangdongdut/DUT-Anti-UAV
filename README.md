@@ -7,8 +7,9 @@
   * Download[GoogleDrive]：[train](https://drive.google.com/open?id=1RVsSGPUKTdmoyoPTBTWwroyulLek1eTj), [val](https://drive.google.com/open?id=1333uEQfGuqTKslRkkeLSCxylh6AQ0X6n), [test](https://drive.google.com/open?id=1L1zeW1EMDLlXHClSDcCjl3rs_A6sVai0)
   * Download[Baidu]：[train](https://pan.baidu.com/s/1-ogC7P_K6lwYAqIS8bgIUQ )[u955], [val](https://pan.baidu.com/s/15sekmPn0hYNQS05Makbmtw )[wkzs], [test](https://pan.baidu.com/s/1GiA-bKlvMSBkzUwYvo-RiA)[ik4d]
 * **Raw Results:**
-  * Download[GoogleDrive]：
-  * Download[Baidu]：
+  * Download[GoogleDrive]：[det-rs](https://drive.google.com/file/d/1oI4JUMyp8TTiY4yQBqIJ_FyjwnGFRLwX/view?usp=sharing)
+  * Download[Baidu]：[det-rs](https://pan.baidu.com/s/1WMawtt1kY5zU3w2QK-RTXg)[2i2k]
+
 * **Baseline Results:**
   * Metric: **P-R Curve**, **F-Score**
 
