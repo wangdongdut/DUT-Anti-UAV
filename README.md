@@ -43,7 +43,7 @@
   * **YOLOX: Zheng Ge, Songtao Liu, Feng Wang, Zeming Li, Jian Sun.**
     **"YOLOX: Exceeding YOLO Series in 2021." CoRR abs/2107.08430 (2021).**
     [[paper]()]
-  * XXXX
+  * **mmdetection：https://github.com/open-mmlab/mmdetection**
   
 * **Tracking**
   * **ECO: Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg.** <br /> 
