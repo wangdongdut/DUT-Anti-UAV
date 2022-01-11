@@ -42,7 +42,7 @@
     [[paper]()]
   * **YOLOX: Zheng Ge, Songtao Liu, Feng Wang, Zeming Li, Jian Sun.**
     **"YOLOX: Exceeding YOLO Series in 2021." CoRR abs/2107.08430 (2021).**
-    [[paper]()]
+    [[paper](https://arxiv.org/abs/2107.08430)]
   * **mmdetection：https://github.com/open-mmlab/mmdetection**
   
 * **Tracking**
@@ -72,12 +72,12 @@
     [[code](https://github.com/iiau-tracker/SPLT)]
   * **LTMU: Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.** <br />
     **"High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).** 
-    [[paper](https://arxiv.org/abs/2004.00305)]
+    [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dai_High-Performance_Long-Term_Tracking_With_Meta-Updater_CVPR_2020_paper.pdf)]
     [[code](https://github.com/Daikenan/LTMU)]
-  * **LTMU: Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.** <br />
-    **"High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).** 
-    [[paper](https://arxiv.org/abs/2004.00305)]
-    [[code](https://github.com/Daikenan/LTMU)]
+  * **TransT: Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu.** <br />
+    **"Transformer Tracking." CVPR (2021).** 
+    [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Transformer_Tracking_CVPR_2021_paper.pdf)]
+    [[code](https://github.com/chenxin-dlut/TransT)]
 
 # Related Papers
 
