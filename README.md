@@ -1,4 +1,4 @@
-# Anti-UAV Detection and Tracking
+# DUT Anti-UAV Detection and Tracking
 
 # Detection
 * **Dataset:**
