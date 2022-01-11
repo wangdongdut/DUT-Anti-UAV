@@ -30,16 +30,14 @@
 * **Detection**
   * **SSD: Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott E. Reed, Cheng-Yang Fu, Alexander C. Berg.** <br />
     **"SSD: Single Shot MultiBox Detector." ECCV (2016).**
-    [[paper]()]
   * **Faster R-CNN: Shaoqing Ren, Kaiming He, Ross B. Girshick, Jian Sun.** <br /> 
     **"Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks." ECCV (2016).**
-    [[paper]()]
   * **Cascade-RCNN: Zhaowei Cai, Nuno Vasconcelos.** <br /> 
     **"Cascade R-CNN: Delving Into High Quality Object Detection." CVPR (2018).**
-    [[paper]()]
+    [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.pdf)]
   * **ATSS: Shifeng Zhang, Cheng Chi, Yongqiang Yao, Zhen Lei, Stan Z. Li.** <br /> 
     **"Bridging the Gap Between Anchor-Based and Anchor-Free Detection via Adaptive Training Sample Selection." CVPR (2020).**
-    [[paper]()]
+    [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Bridging_the_Gap_Between_Anchor-Based_and_Anchor-Free_Detection_via_Adaptive_CVPR_2020_paper.pdf)]
   * **YOLOX: Zheng Ge, Songtao Liu, Feng Wang, Zeming Li, Jian Sun.**
     **"YOLOX: Exceeding YOLO Series in 2021." CoRR abs/2107.08430 (2021).**
     [[paper](https://arxiv.org/abs/2107.08430)]
