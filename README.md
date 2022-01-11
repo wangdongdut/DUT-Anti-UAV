@@ -71,9 +71,13 @@
 
 # Related Papers
 
+* Nan Jiang, Kuiran Wang, Xiaoke Peng, Xuehui Yu, Qiang Wang, Junliang Xing, Guorong Li, Qixiang Ye, Jianbin Jiao, Zhenjun Han, Jian Zhao. <br />
+`"Anti-UAV: A Large-Scale Benchmark for Vision-Based UAV Tracking."` IEEE Transactions on Multimedia (2022). 
+  [[paper](https://ieeexplore.ieee.org/document/9615243)]     
+
 * Fredrik Svanstrom, Cristofer Englund, Fernando Alonso-Fernandez. <br />
-  `"Real-Time Drone Detection and Tracking With Visible, Thermal and Acoustic Sensors."` ArXiv (2020). 
-  [[paper](https://arxiv.org/abs/2007.07396)]     
+  `"Real-Time Drone Detection and Tracking With Visible, Thermal and Acoustic Sensors."` ICPR (2021). 
+  [[paper](https://ieeexplore.ieee.org/document/9413241)]     
   
 * Stamatios Samaras, Diamantidou Eleni, Dimitrios Ataloglou, Nikos Sakellariou, Anastasios Vafeiadis, Vasilis Magoulianitis, 
   Antonios Lalas, Anastasios Dimou, Dimitrios Zarpalas, Konstantinos Votis, Petros Daras, Dimitrios Tzovaras. <br />
