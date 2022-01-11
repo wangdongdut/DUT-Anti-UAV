@@ -15,6 +15,9 @@
   * Examples:  
   * Download[GoogleDrive]：[img](https://drive.google.com/open?id=1dlSPDggg6TRFMcC1jlYIJxxzUQS1mIh9), [gt](https://drive.google.com/open?id=16PE3tBhT0lUGZLA8-zIRYvNUvxfhFZJq)
   * Download[Baidu]：[img](https://pan.baidu.com/s/1OTExqKgvUnqpENtTDu_gGQ)[oine], [gt](https://pan.baidu.com/s/1nkGNERDVgmYIAiwFTdj2xA )[e8mr]
+* **Raw Results:**
+  * Download[GoogleDrive]：
+  * Download[Baidu]：
 * **Baseline Results:**
   * Metric: **Success**, **Precision**
   
