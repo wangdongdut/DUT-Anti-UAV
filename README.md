@@ -6,18 +6,12 @@
     ![avatar](https://github.com/wangdongdut/Anti-UAV-Detection-Tracking/blob/master/AntiUAVDetection.jpg)
   * Download[GoogleDrive]：[train](https://drive.google.com/open?id=1RVsSGPUKTdmoyoPTBTWwroyulLek1eTj), [val](https://drive.google.com/open?id=1333uEQfGuqTKslRkkeLSCxylh6AQ0X6n), [test](https://drive.google.com/open?id=1L1zeW1EMDLlXHClSDcCjl3rs_A6sVai0)
   * Download[Baidu]：[train](https://pan.baidu.com/s/1-ogC7P_K6lwYAqIS8bgIUQ )[u955], [val](https://pan.baidu.com/s/15sekmPn0hYNQS05Makbmtw )[wkzs], [test](https://pan.baidu.com/s/1GiA-bKlvMSBkzUwYvo-RiA)[ik4d]
-* **Raw Results:**
-  * Download[GoogleDrive]：[det-rs](https://drive.google.com/file/d/1oI4JUMyp8TTiY4yQBqIJ_FyjwnGFRLwX/view?usp=sharing)
-  * Download[Baidu]：[det-rs](https://pan.baidu.com/s/1WMawtt1kY5zU3w2QK-RTXg)[2i2k]
 
 # Tracking
 * **Dataset:**
   * Examples:  
   * Download[GoogleDrive]：[img](https://drive.google.com/open?id=1dlSPDggg6TRFMcC1jlYIJxxzUQS1mIh9), [gt](https://drive.google.com/open?id=16PE3tBhT0lUGZLA8-zIRYvNUvxfhFZJq)
   * Download[Baidu]：[img](https://pan.baidu.com/s/1OTExqKgvUnqpENtTDu_gGQ)[oine], [gt](https://pan.baidu.com/s/1nkGNERDVgmYIAiwFTdj2xA )[e8mr]
-* **Raw Results:**
-  * Download[GoogleDrive]：[track-rs](https://drive.google.com/file/d/1xwd8Qx3pv21JaTR_AwBFhpeQtjIScrle/view?usp=sharing)
-  * Download[Baidu]：[track-rs](https://pan.baidu.com/s/1lUnQfEeKM67gJtpwcCfJpA)[sqg5]
 
 # References
 
