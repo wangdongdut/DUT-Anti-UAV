@@ -9,9 +9,6 @@
 * **Raw Results:**
   * Download[GoogleDrive]：[det-rs](https://drive.google.com/file/d/1oI4JUMyp8TTiY4yQBqIJ_FyjwnGFRLwX/view?usp=sharing)
   * Download[Baidu]：[det-rs](https://pan.baidu.com/s/1WMawtt1kY5zU3w2QK-RTXg)[2i2k]
-* **Baseline Results:**
-  * Metric: **P-R Curve**, **F-Score**
-* **Reference:**
 
 # Tracking
 * **Dataset:**
@@ -21,9 +18,6 @@
 * **Raw Results:**
   * Download[GoogleDrive]：[track-rs](https://drive.google.com/file/d/1xwd8Qx3pv21JaTR_AwBFhpeQtjIScrle/view?usp=sharing)
   * Download[Baidu]：[track-rs](https://pan.baidu.com/s/1lUnQfEeKM67gJtpwcCfJpA)[sqg5]
-* **Baseline Results:**
-  * Metric: **Success**, **Precision**
-* **Reference:**
 
 # References
 
