@@ -13,6 +13,10 @@
   * Download[GoogleDrive]：[img](https://drive.google.com/open?id=1dlSPDggg6TRFMcC1jlYIJxxzUQS1mIh9), [gt](https://drive.google.com/open?id=16PE3tBhT0lUGZLA8-zIRYvNUvxfhFZJq)
   * Download[Baidu]：[img](https://pan.baidu.com/s/1OTExqKgvUnqpENtTDu_gGQ)[oine], [gt](https://pan.baidu.com/s/1nkGNERDVgmYIAiwFTdj2xA )[e8mr]
 
+# Paper
+  Jie Zhao, Jingshu Zhang, Dongdong Li, Dong Wang. Vision-based Anti-UAV Detection and Tracking. IEEE Transactions on Intelligent Transportation Systems, 2022. [[Arxiv](https://arxiv.org/abs/2205.10851)]
+
+
 # References
 
 * **Detection**
